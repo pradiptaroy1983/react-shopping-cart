@@ -1,0 +1,107 @@
+{
+    "products": [
+        {
+            "_id": "dress1",
+            "title": "Dress 1",
+            "description": "dress 1111",
+            "image": "/images/dress1.jpg",
+            "price": 23,
+            "availableSizes": [
+                "XL",
+                "XXL"
+            ]
+        },
+        {
+            "_id": "dress2",
+            "title": "Dress 2",
+            "description": "dress 1111",
+            "image": "/images/dress2.jpg",
+            "price": 11,
+            "availableSizes": [
+                "S",
+                "XL"
+            ]
+        },
+        {
+            "_id": "dress3",
+            "title": "Dress 3",
+            "description": "dress 1111",
+            "image": "/images/dress3.jpg",
+            "price": 19,
+            "availableSizes": [
+                "XL",
+                "S",
+                "XXL",
+                "XL"
+            ]
+        },
+        {
+            "_id": "dress4",
+            "title": "Dress 4",
+            "description": "dress 1111",
+            "image": "/images/dress4.jpg",
+            "price": 45,
+            "availableSizes": [
+                "L",
+                "S",
+                "XL"
+            ]
+        },
+        {
+            "_id": "dress5",
+            "title": "Dress 5",
+            "description": "dress 1111",
+            "image": "/images/dress5.jpg",
+            "price": 65,
+            "availableSizes": [
+                "XXL"
+            ]
+        },
+        {
+            "_id": "dress6",
+            "title": "Dress 5",
+            "description": "dress 1111",
+            "image": "/images/dress6.jpg",
+            "price": 19,
+            "availableSizes": [
+                "L",
+                "XL"
+            ]
+        },
+        {
+            "_id": "dress7",
+            "title": "Dress 5",
+            "description": "dress 1111",
+            "image": "/images/dress7.jpg",
+            "price": 21,
+            "availableSizes": [
+                "XL",
+                "S"
+            ]
+        },
+        {
+            "_id": "dress8",
+            "title": "Dress 5",
+            "description": "dress 1111",
+            "image": "/images/dress8.jpg",
+            "price": 76,
+            "availableSizes": [
+                "XL",
+                "S"
+            ]
+        },
+        {
+            "_id": "dress9",
+            "title": "Dress 5",
+            "description": "dress 1111",
+            "image": "/images/dress9.jpg",
+            "price": 8,
+            "availableSizes": [
+                "XL",
+                "S",
+                "XXL",
+                "L"
+            ]
+        }
+    ]
+}
